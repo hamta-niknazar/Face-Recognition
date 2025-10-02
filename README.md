@@ -17,7 +17,7 @@ A simple Python-based face recognition system that captures faces from a webcam,
 
 Clone the repository:
 
-git clone https://github.com/hamta-niknazar/Face-Recognition-and-Detection
+git clone https://github.com/hamta-niknazar/Face-Recognition
 
 cd FaceDetection
 
